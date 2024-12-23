@@ -1,0 +1,5 @@
+mytuple = (2,3,5,'dsi',['de', 'da', 'ds'])
+print(mytuple[:])
+print(mytuple[2])
+print(mytuple[4])
+print(mytuple[4][0])
